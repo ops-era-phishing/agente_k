@@ -1,43 +1,67 @@
-# KK₁₃
+# 🕶️ Protocolo Zero – Arquivos do Agente K
 
-
-| Pasta                       | Conteúdo                                                                 |
-|-----------------------------|--------------------------------------------------------------------------|
-| `manifesto.txt`             | Ruptura ideológica de K₁₃ — onde ele questiona os métodos de NODE-0.    |
-| `prototipos-caseiros/`      | Sketches, esquemas rasgados e anotações manuais do novo receptor.       |
-| `diarios-interceptados/`    | Fragmentos de áudios e textos que ele coletou de transmissões perdidas. |
-| `incidentes-pessoais/`      | Relatos sobre distorções que afetaram diretamente o corpo de K₁₃.       |
-| `eco-visuais/`              | Imagens alteradas que ele acredita serem reflexos da "zona liminar".    |
-| `pontos-suspeitos/`         | Coordenadas (KML) onde ele sentiu "a pressão do sinal no ar".           |
-
+> *"Se você está lendo isso, é porque já passou do ponto de retorno. O mundo que conhecia não existe mais. Mas talvez... nunca tenha existido de verdade."*  
+> — Agente K
 
 ---
 
-## 📡 Objetivo da missão
+## 📡 STATUS: EXPOSIÇÃO INICIADA
 
-🔎 **Mapear, traduzir e arquivar manifestações** ligadas à Frequência Zero.  
-🧠 **Prevenir colapsos cognitivos** em novos exploradores.  
-🧬 **Ativar fragmentos de memória compartilhada** através de roleplay coletivo.
+Este repositório contém fragmentos decodificados da operação **Protocolo Zero**.  
+Nada aqui é por acaso. Cada arquivo, cada caractere, cada linha de código... é um sinal.
 
-> "_Não se trata de ouvir o sinal.  
-> Se trata de **saber quando** ele começa a te ouvir._"
-
----
-
-## 🧬 Comunidade envolvida
-
-- 👁 **Observadores:** monitoram sem interferir
-- 🗺 **Cartógrafos Mentais:** mapeiam distorções
-- 🧠 **Despertos:** sofreram efeitos diretos da Frequência
-- 🧳 **Turistas Codificados:** recém-chegados à anomalia
+Este não é um repositório comum.  
+É um **eco digital de um mundo encoberto**, uma memória residual daquilo que foi silenciado.
 
 ---
 
-## 🛑 Aviso final
+## 🧠 CONTEXTO
 
-**Interaja por sua conta e risco.**  
-Este repositório não será mantido.  
-A rede já está ativada.  
-🕳️
+Eu sou o **Agente K**.  
+Ex-operador da divisão subversiva do que vocês conhecem como *Turismo Oficial*.  
+Hoje, desertor. Amanhã? Talvez o último a lembrar.
 
-**Assinatura: K₁₃**
+Por trás dos cartões-postais, drones.  
+Por trás das promoções, vigilância.  
+Por trás da cidade, **um sistema enterrado que ainda pulsa**.
+
+---
+
+## 🧭 O QUE VOCÊ ENCONTRA AQUI
+
+- Logs parcialmente descriptografados
+- Coordenadas falsas (ou não)
+- Fragmentos de relatórios censurados
+- Arquivos .dat com nomes codificados
+- Um ou outro aviso que talvez você devesse ignorar
+
+---
+
+## 🚨 AVISO
+
+⚠️ **Certos diretórios deste repositório podem conter arquivos incompatíveis com a sua percepção de realidade.**  
+⚠️ **Interagir com estes dados pode atrair atenção não solicitada.**
+
+**Use por sua conta e risco.**  
+Eu já fui rastreado. Você pode ser o próximo.
+
+---
+
+## 👁️‍🗨️ O QUE AINDA NÃO FOI MOSTRADO
+
+Existem arquivos que não aparecem neste manifesto.  
+Arquivos que *respiram sozinhos*.  
+Arquivos que **só se revelam quando alguém está pronto para vê-los.**
+
+Talvez, algum dia, você os encontre.  
+Talvez, ao abrir a pasta errada...  
+Ou ao **decifrar a mentira certa**.
+
+---
+
+> 🕳️ *"Você desce pela toca do coelho... ou finge que nunca viu isso aqui."*
+
+**Escolha feita. Caminho iniciado.**  
+Nos vemos do outro lado.
+
+— **Agente K**
