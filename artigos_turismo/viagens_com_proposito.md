@@ -8,7 +8,7 @@ Agora, me conta: você lembra da foto número 642 que postou só porque o lugar 
 
 Pois é.
 
-<img src="https://sustainatrip.com.br/assets/img/Img1.webp" alt="Barco, Mar Pôr do Aol" width="100px" style="border-radius: 8px;">
+<img src="https://sustainatrip.com.br/assets/img/Img1.webp" alt="Barco, Mar Pôr do Aol" width="100%" style="border-radius: 8px;">
 
 > “Uma viagem com propósito não termina quando você volta. Ela começa ali.” — Essa frase virou meu lema.
 
